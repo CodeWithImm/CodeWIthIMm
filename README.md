@@ -1,16 +1,21 @@
-## Hi there 👋
+![Banner](https://imgur.com/a/bNBCZbx)
 
-<!--
-**CodeWithImm/CodeWIthIMm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I am a passionate developer skilled in multiple programming languages. Here’s a bit about my coding journey:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages I Code In:**
+  - **C++**: Building robust applications and system-level programming.
+  - **Python**: Data analysis, web development, and automation.
+  - **Lua**: Lightweight scripting for embedded systems and game development.
+  - **Java**: Enterprise-level applications and Android development.
+
+### Professional Background
+
+I currently work at **Lim Siang Huat**, where I contribute to innovative projects and collaborate with a talented team to create impactful solutions. My role involves leveraging my diverse skill set to tackle challenging problems and deliver high-quality software.
+
+### Connect With Me
+
+- **GitHub**: [Your GitHub Profile](https://github.com/CodeWithImm)
+
+Thank you for visiting my repository! Feel free to explore my projects and reach out if you have any questions or collaboration ideas.
