@@ -16,6 +16,6 @@ I currently work at **Lim Siang Huat**, where I contribute to innovative project
 
 ### Connect With Me
 
-- **GitHub**: [Your GitHub Profile](https://github.com/CodeWithImm)
+- **GitHub**: [CodeWithImm](https://github.com/CodeWithImm)
 
 Thank you for visiting my repository! Feel free to explore my projects and reach out if you have any questions or collaboration ideas.
