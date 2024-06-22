@@ -1,4 +1,4 @@
-![Banner](https://imgur.com/a/bNBCZbx)
+<img src="https://imgur.com/a/bNBCZbx"/>
 
 ## About Me
 
